@@ -11,7 +11,7 @@
 ## :pushpin: Contact
 - 이메일: zodltm2@naver.com
 - 블로그: 
-- 깃헙: [https://github.com/JungHyung2](https://github.com/tmdwo10)
+- 깃헙: [https://github.com/tmdwo10]
 
 </br>
 
