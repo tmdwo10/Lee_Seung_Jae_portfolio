@@ -1,6 +1,4 @@
 # 이승재 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
-2
 </br>
 
 ## :pushpin: Intro
@@ -20,14 +18,17 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)
+
+### 1. [첫 번째 프로젝트] Bello [https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)]
+
 >첫번째 프로젝트(팀 프로젝트)  
 >개발 기간: 2024.01.04 ~ 2024.01.15  
 
 
 ---
 
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트] Renewen [https://github.com/2023-SMHRD-KDT-IOT-4/renewen]
+
 >두 번째 프로젝트(팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>개발 기간: 2024.03.02 ~ 2024.03.13  
 
