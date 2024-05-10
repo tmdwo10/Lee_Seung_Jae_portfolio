@@ -4,11 +4,11 @@
 </br>
 
 ## :pushpin: Intro
->기술 스택:  
->Java 8, 17, 21 / Spring Boot / eGovFrame / Gradle / Maven / JSP / JPA / Spring Security / Restful API
->H2 / MySQL / OracleSQL / MongoDB
->Python / Flask / FastAPI / Django / DataModeling / Pytorch
->JavaScript / React
+>기술 스택: </br>
+>Java 8, 17, 21 / Spring Boot / eGovFrame / Gradle / Maven / JSP / JPA / Spring Security / Restful API </br>
+>H2 / MySQL / OracleSQL / MongoDB </br>
+>Python / Flask / FastAPI / Django / DataModeling / Pytorch </br>
+>JavaScript / React </br>
 
 </br>
 
