@@ -19,7 +19,7 @@
 
 ## :pushpin: Projects
 
-### 1. [첫 번째 프로젝트] Bello [https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)]
+### 1. [첫 번째 프로젝트 - Bello] [https://github.com/2023-SMHRD-KDT-IOT-4/Bello/tree/new_socket_version)]
 
 >첫번째 프로젝트(팀 프로젝트)  
 >개발 기간: 2024.01.04 ~ 2024.01.15  
@@ -27,7 +27,7 @@
 
 ---
 
-### 2. [두 번째 프로젝트] Renewen [https://github.com/2023-SMHRD-KDT-IOT-4/renewen]
+### 2. [두 번째 프로젝트 - Renewen] [https://github.com/2023-SMHRD-KDT-IOT-4/renewen]
 
 >두 번째 프로젝트(팀 프로젝트)  
 >개발 기간: 2024.03.02 ~ 2024.03.13  
